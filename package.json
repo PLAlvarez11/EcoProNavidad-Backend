@@ -4,8 +4,7 @@
   "description": "Proyecto Fomentar el Cuidado del Medio Ambiente Corriendo UMG",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node app"
   },
   "keywords": [
     "123"
